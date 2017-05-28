@@ -1,0 +1,4 @@
+Формат БД *.map
+[sites]
+(row)-https://plastinfo.ru/trade/sell/raw/1615787/$
+[request]
